@@ -1,3 +1,5 @@
+/* Copyright (C) 2013 Klee Dienes <klee@mit.edu> */
+
 #define XPLM200
 
 #include "XPLMPlugin.h"
